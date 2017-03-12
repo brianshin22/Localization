@@ -1,0 +1,8 @@
+prefix=/home/mpc/Localization/workspace/devel
+
+Name: localize
+Description: Description of localize
+Version: 0.0.0
+Cflags: -I/home/mpc/Localization/workspace/devel/include
+Libs: -L/home/mpc/Localization/workspace/devel/lib 
+Requires: 

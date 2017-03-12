@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "localize")
+set(localize_MAINTAINER "mpc <mpc@todo.todo>")
+set(localize_DEPRECATED "")
+set(localize_VERSION "0.0.0")
+set(localize_BUILD_DEPENDS "message_generation" "roscpp" "rospy" "std_msgs")
+set(localize_RUN_DEPENDS "message_runtime" "roscpp" "rospy" "std_msgs")
+set(localize_BUILDTOOL_DEPENDS "catkin")

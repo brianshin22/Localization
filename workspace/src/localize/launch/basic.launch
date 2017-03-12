@@ -1,0 +1,15 @@
+<launch>
+
+  <node 
+    pkg="localize" 
+    name="location_sender" 
+    type="location_sender.py">
+  </node>
+
+  <node 
+    pkg="localize" 
+    name="can_sender" 
+    type="can_sender.py">
+  </node>
+
+</launch>

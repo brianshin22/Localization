@@ -1,0 +1,2 @@
+localize
+-DCATKIN_DEVEL_PREFIX=/home/mpc/Localization/workspace/devel -DCMAKE_INSTALL_PREFIX=/home/mpc/Localization/workspace/install -G Unix Makefiles
